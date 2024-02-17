@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "0 to 100",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjad101/type-script-0-100.git"
+  },
+  "author": "mohammad sajjad gholami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajjad101/type-script-0-100/issues"
+  },
+  "homepage": "https://github.com/sajjad101/type-script-0-100#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
